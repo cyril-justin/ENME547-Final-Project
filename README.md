@@ -1,0 +1,1 @@
+Developed MATLAB code for solving 2D Laplace equation through Finite Element Method (FEM). Conducted thermal analysis on a square domain using method of weighted residuals, incorporating user-inputted Gauss Quadrature rule.
